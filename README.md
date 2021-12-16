@@ -15,7 +15,7 @@ Jupyter Lab will not display this 3D visualization, use Jupyter Notebook.
 
 ### Total Supply v Total Mined Curve
 ![](Resources/images/Supply_Mined.png)
-Exploratory graph
-BitTorrent is in a class of its own. 
-VeChain, BiblePay, LitecoinCash, Poa Network, Acute Angle Cloud, and Waves are in a class together.
+Exploratory graph <br>
+BitTorrent is in a class of its own.  <br>
+VeChain, BiblePay, LitecoinCash, Poa Network, Acute Angle Cloud, and Waves are in a class together. <br>
 The roughly 500 other coins are evenly split between the other two classes.  
