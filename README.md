@@ -3,6 +3,9 @@
 * Preprocess data for dimensionality reduction
 * Use Kmeans to determine the optimal number of clusters
 * Vizualize clusters
+## Resources
+Data was sourced from https://min-api.cryptocompare.com/data/all/coinlist
+Teachnologies: Visual Studio, Jupyter Notebook, Scikit-Learn, Plotly, Hvplot
 ### Elbow Curve
 ![](Resources/images/Elbow_curve.png)
 Selecting 4 clusters as a result of the elbow curve
