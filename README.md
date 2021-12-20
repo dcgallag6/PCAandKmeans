@@ -1,4 +1,5 @@
 # PCA and Kmeans using Cryptocurrency
+![](banner.jpg)
 ## Project Overview
 * Preprocess data for dimensionality reduction
 * Use Kmeans to determine the optimal number of clusters
